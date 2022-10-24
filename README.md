@@ -4,6 +4,7 @@ It is collection of [Asymtote](https://asymptote.sourceforge.io) source code fil
 
 ## Requirements
 * Asymtote
+
 On macOS you can install it with [Homebrew](https://brew.sh):
 ```brew install asymptote```
 
@@ -18,7 +19,7 @@ chmod +x run.sh
 ## Usage
 Just run:
 ```./run.sh```
-and enjoy with generated pictures
+and enjoy with generated pictures.
 You can also change ```N_ITER``` parameter in files and regenerating pictures
 
 ## References
