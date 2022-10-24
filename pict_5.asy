@@ -2,7 +2,7 @@ import math;
 import settings;
 outformat = "pdf";
 //==NUMBER OF LEVELS==
-int N_ITER = 500;
+int N_ITER = 300;
 //====================
 struct circle { 
     pair C; 
