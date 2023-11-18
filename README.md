@@ -10,7 +10,7 @@ On macOS you can install it with [Homebrew](https://brew.sh): ```brew install as
 ## Install
 Clone this repo: 
 ```sh
-git clone https://github.com/DavidOSX/Indra
+git clone https://github.com/davidmiheev/Indra
 cd Indra
 chmod +x run.sh
 ```
@@ -21,4 +21,5 @@ You can also change ```N_ITER``` parameter in files and regenerating pictures
 
 ## References
 For more information about math behind these pictures see book:
+
 * **Mumford, David; Series, Caroline; Wright, David (2002), Indra's pearls, Cambridge University Press**
